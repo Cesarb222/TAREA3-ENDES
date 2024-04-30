@@ -9,6 +9,6 @@ public class ppa {
         System.out.println(t1.resumen());
 
         System.out.println("Este es un system out print");
-        System.out.println("CESar modificado")
+        System.out.println("CESar modificados")
     }
 }
